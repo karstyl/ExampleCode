@@ -9,7 +9,7 @@ My data is structured as low depth sequencing from many individuals and high qua
 
 The grandparent data was previously analyzed and is available to my lab as fully phased, genome wide genotypes. I prepared this data as the referenece for imputaiton in quilt.
 
-The idividual data is available to my lab as bam files aligned to the same genome as the vcf files from the grandparents.
+The individual data is available to my lab as bam files aligned to the same genome as the vcf files from the grandparents.
 
 The data is being run family by family, as the exact ancestors, and therefor the possible haplotypes, of each individual is known.
 
